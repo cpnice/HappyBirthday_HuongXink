@@ -18,10 +18,10 @@
     /*box-shadow: 0 0 20px rgba(255, 0, 128, 0.2);*/
     font-family: 'Dancing Script', cursive;
     text-align: center;
-    box-shadow: 0 0 15px #ffffff,
-              0 0 30px #a1e3ff,
-              0 0 45px #f9f2b3,
-              0 0 60px #c9ffd4;  
+ box-shadow: 0 0 15px #f5d5e9,
+                0 0 30px #a1e3ff,
+                0 0 45px #f9f2b3,
+                0 0 60px #c9ffd4;  
 }
 
 
@@ -241,7 +241,7 @@ body{
     border-radius: 30px;
     /*box-shadow: -5px -5px 15px rgb(235, 243, 164),
                 5px 5px 15px rgb(144, 219, 191);*/
-                box-shadow: 0 0 15px #f5d5e9,
+box-shadow: 0 0 15px #f5d5e9,
                 0 0 30px #a1e3ff,
                 0 0 45px #f9f2b3,
                 0 0 60px #c9ffd4;
@@ -1209,10 +1209,10 @@ span{
     /*border: 2px solid white;*/
     cursor: pointer;
     margin-bottom: -5px;
-    box-shadow: 0 0 5px #f5d5e9,
-                0 0 20px #a1e3ff,
-                0 0 35px #f9f2b3,
-                0 0 30px #fa97d9;
+box-shadow: 0 0 15px #f5d5e9,
+                0 0 30px #a1e3ff,
+                0 0 45px #f9f2b3,
+                0 0 60px #c9ffd4;
 
 }
 .boxMail .boxMail-container .card1 .userImg img{
