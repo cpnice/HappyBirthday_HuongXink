@@ -18,10 +18,12 @@
     /*box-shadow: 0 0 20px rgba(255, 0, 128, 0.2);*/
     font-family: 'Dancing Script', cursive;
     text-align: center;
- box-shadow: 0 0 15px #f5d5e9,
+                box-shadow: 0 0 15px #ffcfd2,
+                0 0 60px #fff6e8,
+                0 0 15px #f5d5e9,
                 0 0 30px #a1e3ff,
                 0 0 45px #f9f2b3,
-                0 0 60px #c9ffd4;  
+                0 0 60px #c3face;  
 }
 
 
@@ -110,10 +112,12 @@ body{
     color: #333;
     /*box-shadow: -5px -5px 15px rgba(255, 255, 255),
                 5px 5px 15px rgb(0, 0, 0, 0.5);*/
-    box-shadow: 0 0 15px #f5d5e9,
+                box-shadow: 0 0 15px #ffcfd2,
+                0 0 60px #fff6e8,
+                0 0 15px #f5d5e9,
                 0 0 30px #a1e3ff,
                 0 0 45px #f9f2b3,
-                0 0 60px #c9ffd4;
+                0 0 60px #c3face;
 }
 @keyframes gradientBG {
     0% { background-position: 0% 50%; }
@@ -241,12 +245,12 @@ body{
     border-radius: 30px;
     /*box-shadow: -5px -5px 15px rgb(235, 243, 164),
                 5px 5px 15px rgb(144, 219, 191);*/
-    box-shadow: 0 0 15px #ffcfd2,
+                box-shadow: 0 0 15px #ffcfd2,
                 0 0 60px #fff6e8,
                 0 0 15px #f5d5e9,
                 0 0 30px #a1e3ff,
                 0 0 45px #f9f2b3,
-                0 0 60px #edfef0;
+                0 0 60px #c3face;
 }
 .container .cake img:hover{
     animation: cake1 0.5s infinite linear;
